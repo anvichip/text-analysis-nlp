@@ -4,10 +4,15 @@ This is a project which does basic Text analysis of ariticles using NLP Techniqu
 
 # Install the following packages:
 ```pip install beautifulsoup4``` <br />
+
 ```pip install nltk``` <br />
+
 ```pip install nltk``` <br />
+
 ```pip install chardet``` <br />
+
 ```pip install syllables``` <br />
+
 ```pip install openpyxl```
 
 
