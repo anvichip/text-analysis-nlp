@@ -3,11 +3,11 @@ This is a project which does basic Text analysis of ariticles using NLP Techniqu
 
 
 # Install the following packages:
-```pip install beautifulsoup4```
-pip install nltk
-pip install chardet
-pip install syllables
-pip install openpyxl
+```pip install beautifulsoup4``` 
+```pip install nltk``` 
+```pip install chardet``` 
+```pip install syllables``` 
+```pip install openpyxl```
 
 
 # Steps to follow for running in colab
